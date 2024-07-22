@@ -30,6 +30,8 @@ This project is to be used to learn and understand about Machien Learning. Using
 
 ## Table 
 
+![Screenshot 2024-07-22 151519](https://github.com/user-attachments/assets/2dae4d7b-d0aa-493b-abec-aa128d60b223)
+
 
 
 
