@@ -26,5 +26,12 @@ This project is to be used to learn and understand about Machien Learning. Using
 
 # Results
 
+![Screenshot 2024-07-22 151320](https://github.com/user-attachments/assets/66b05c98-010c-4e5d-a764-9ef67ebeb690)
+
+## Table 
+
+
+
+
 
 
